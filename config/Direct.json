@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        #".weixinsxy.com",
+        //".weixinsxy.com",
         ".nahuo8.xyz"
       ]
     },
