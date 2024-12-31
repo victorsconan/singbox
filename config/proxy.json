@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "googlevideo.com"
+      ]
+       "ip_cidr": [
+        "1.179.112.0/20",
+        "5.62.21.0/24"
+      ]
+    }
+  ]
+}

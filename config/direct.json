@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nahuo8.xyz",
+        "bslssp.cn"
+      ]
+       "ip_cidr": [
+        "1.0.1.0/24",
+        "1.0.2.0/23"
+      ]
+    }
+  ]
+}
